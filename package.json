@@ -1,0 +1,16 @@
+{
+  "name": "visits-redis",
+  "version": "1.0.0",
+  "description": "a simple todo app which stores all todo tasks in redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "2.8.0"
+  }
+}
